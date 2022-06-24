@@ -10,7 +10,7 @@ Simply open a new issue in this repo and ask a question, or suggest a feature re
 
 ### Reporting vulnerabilities
 
-This is not the place to report a vulnerability. For the safety of our users, we would request you submit the issue via our bug bounty program on BugCrowd here and read more about the program [here](https://docs.oblivious.ai/concepts/security_vulnerabilities). Depending on the CVSS score, we will even give out rewards! The reason for this is so that we have time to patch the issue before it has a chance to act as a threat to other users. All patches are of course desclosed.
+This is not the place to report a vulnerability. For the safety of our users, we would request you submit the issue via our bug bounty program on BugCrowd here and read more about the program [here](https://docs.oblivious.ai/concepts/security_vulnerabilities). Depending on the CVSS score, we will even give out rewards! The reason for this is so that we have time to patch the issue before it has a chance to act as a threat to other users. All patches are of course disclosed.
 
 <sup><sub>Want to chat more? Catch us on slack:</sub></sup> </br>
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://oblivious-community.slack.com)
